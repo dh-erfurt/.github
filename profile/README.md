@@ -12,8 +12,9 @@ We develop and share research projects, teaching materials, and tools at the int
 ---
 
 📂 **Repositories**  
-- [📝 Open Educational Resource "Grundlagen, Methoden und Anwendungen der Digital History"](https://dh-erfurt.github.io/digital-history/home.html)
+[📝 Open Educational Resource "Grundlagen, Methoden und Anwendungen der Digital History"](https://dh-erfurt.github.io/digital-history/home.html)
+
 ---
 
-✉️ **Contact/Websites**  
-[University of Applied Sciences](https://ai.fh-erfurt.de/neovesky) | [University](https://www.uni-erfurt.de/philosophische-fakultaet/seminare-professuren/historisches-seminar/professuren/dh)
+✉️ **Contact & Websites**  
+[University of Applied Sciences Erfurt](https://ai.fh-erfurt.de/neovesky) | [University of Erfurt](https://www.uni-erfurt.de/philosophische-fakultaet/seminare-professuren/historisches-seminar/professuren/dh)
