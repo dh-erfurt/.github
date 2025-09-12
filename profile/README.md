@@ -1,4 +1,4 @@
-# 🏛️ Digital Humanities at the University of Applied Sciences Erfurt and the University of Erfurt.
+# 🏛️ Digital Humanities at the University of Applied Sciences Erfurt and the University of Erfurt
 
 Welcome to the GitHub space of the **Professorship of Digital Humanities** at the University of Applied Sciences Erfurt and the University of Erfurt.
 We develop and share research projects, teaching materials, and tools at the intersection of **computer science and the humanities**.  
