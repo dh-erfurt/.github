@@ -8,6 +8,7 @@ We develop and share research projects, teaching materials, and tools at the int
 👩‍🏫 **Team**  
 - [Prof. Dr. Anna Neovesky](https://github.com/annaneo)
 - [Nina Brolich, M.Sc.](https://github.com/nina-bro)
+- [Finn Romeis, B.Sc.](https://github.com/FiJoRom)
 
 ---
 
