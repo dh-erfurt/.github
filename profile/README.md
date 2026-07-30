@@ -13,7 +13,8 @@ We develop and share research projects, teaching materials, and tools at the int
 ---
 
 📂 **Repositories**  
-[Open Educational Resource "Grundlagen, Methoden und Anwendungen der Digital History"](https://dh-erfurt.github.io/digital-history/home.html)
+- [Open Educational Resource "Grundlagen, Methoden und Anwendungen der Digital History"](https://dh-erfurt.github.io/digital-history/home.html)
+- [Open Educational Resource "Python"](https://dh-erfurt.github.io/python/home.html)
 
 ---
 
